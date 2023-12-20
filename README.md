@@ -1,7 +1,7 @@
-# 4FLOPPYKICK
+# SOLSTICE22
 
-Live-coding Performance for the 2022 winter solstice.
-Recorded on cassette, remastered, recompressed for floppy kick.
+Live-coding Performance for the 2022 live-coding winter solstice event.
+Recorded on cassette, remastered, recompressed for floppy releases.
 
 #### Album Name : 
   SOLSTICE22
